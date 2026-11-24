@@ -1,6 +1,6 @@
 # RoundUp
 
-Android app for Dr Akash's team: record hospital visits on the phone, share them with the team, and track which visits
+Android app for a doctor's team: record hospital visits on the phone, share them with the team, and track which visits
 the hospitals have paid.
 
 **Download the latest version from [Releases](https://github.com/Amol-Agrawal/roundup-app/releases/latest).**
